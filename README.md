@@ -49,7 +49,7 @@ Follow the youtube video to see how I fared on ``spaceShooter``
 
 - Health bar for the space ship
 - Score board to show how you are faring so far
-- Power ups like
+- Power-Ups such as,
   - shield: increases the space ships life
   - bolt: increases the shooting capability of the ship by firing 2 to 3 bullets instead of one at time.
 - Custom sounds and sprite animation for things like
